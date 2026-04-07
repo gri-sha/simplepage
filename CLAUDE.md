@@ -13,7 +13,8 @@ Landing page for **simplegrad**, a deep learning framework. The page lives at [s
 ## Stack
 
 - Plain HTML + CSS + JS (no frameworks, no build tools)
-- Files: `index.html`, `styles.css`, `script.js`
+- Web files live in `public/`: `index.html`, `styles.css`, `script.js`, `assets/`
+- Only `public/` is deployed — repo files (README, CLAUDE.md, etc.) are not served
 
 ## Design
 
