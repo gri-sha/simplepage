@@ -1,0 +1,5 @@
+*local.json
+*.env
+.DS_Store
+.vscode/
+.idea/
